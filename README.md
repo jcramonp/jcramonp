@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 ¡Hola! Soy Juan Camilo 
 
 🎓 Soy estudiante de **Ingenieria de sistemas en la Universidad EAFIT** (Colombia), apasionado por la tecnología, el desarrollo de software y la resolución de problemas reales mediante la programación.
@@ -23,9 +21,8 @@
 
 ## 📂 Repositorios destacados
 
-- 👨‍💻 [Nombre del proyecto 1](enlace) – breve descripción
-- 🤖 [Nombre del proyecto 2](enlace) – breve descripción
-- 🔧 [Nombre del proyecto 3](enlace) – breve descripción
+- 👨‍💻 [OS Simulator](https://github.com/vcastrop/OS_simulator.git) – Simulador web de un sistema operativo y sus funcionalidades
+- 🤖 [SmartCV](https://github.com/jcramonp/SmartCVfinal.git) – Digitalización de hojas de vida para la empresa Magneto
 
 ## 📫 ¿Cómo contactarme?
 
