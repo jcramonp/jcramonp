@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Juan Camilo 
 
 🎓 Soy estudiante de **Ingenieria de sistemas en la Universidad EAFIT** (Colombia), apasionado por la tecnología, el desarrollo de software y la resolución de problemas reales mediante la programación.
 
@@ -34,6 +34,4 @@ Puedes escribirme a través de:
 - 📧 Correo: jr200504@gmail.com
 - 💼 LinkedIn: linkedin.com/in/juan-camilo-ramón-pérez-149720366
 
----
 
-> Siempre estoy abierto a colaborar en proyectos, compartir ideas o aprender en comunidad. Si te interesa conectar, ¡no dudes en escribirme! 🚀
