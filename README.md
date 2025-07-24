@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**jcramonp/jcramonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-Here are some ideas to get you started:
+🎓 Soy estudiante de **Ingenieria de sistemas en la Universidad EAFIT** (Colombia), apasionado por la tecnología, el desarrollo de software y la resolución de problemas reales mediante la programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 ¿En qué estoy trabajando actualmente?
+
+- 💡 Estoy profundizando en **desarrollo backend** con Python y Java.
+- 🧠 Me interesa la **inteligencia artificial**, especialmente aprendizaje automático y visión por computador.
+- 🛠️ Trabajo en proyectos académicos y personales relacionados con:
+  - Automatización
+  - Desarrollo web (Fullstack)
+  - Algoritmos y estructuras de datos
+  - Aplicaciones con frameworks como Django, Spring Boot y React
+
+## 🚀 Habilidades y tecnologías
+
+- Lenguajes: `Python`, `Java`, `C++`, `JavaScript`
+- Web: `HTML`, `CSS`, `React`, `Node.js`
+- Backend: `Django`, `Spring Boot`, `Express`
+- Dev Tools: `Git`, `PostgreSQL`, `Linux`, `JetBrains Suite`
+
+## 📂 Repositorios destacados
+
+- 👨‍💻 [Nombre del proyecto 1](enlace) – breve descripción
+- 🤖 [Nombre del proyecto 2](enlace) – breve descripción
+- 🔧 [Nombre del proyecto 3](enlace) – breve descripción
+
+## 📫 ¿Cómo contactarme?
+
+Puedes escribirme a través de:
+
+- 📧 Correo: jr200504@gmail.com
+- 💼 LinkedIn: linkedin.com/in/juan-camilo-ramón-pérez-149720366
+
+---
+
+> Siempre estoy abierto a colaborar en proyectos, compartir ideas o aprender en comunidad. Si te interesa conectar, ¡no dudes en escribirme! 🚀
